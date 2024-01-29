@@ -186,6 +186,6 @@ const submitBtn = () => {
   `;
 
     clearTimeout(x);
-  }, 1500);
+  }, 1000);
   window.scrollTo(0, 0);
 };
